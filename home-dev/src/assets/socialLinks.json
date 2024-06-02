@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/zryshuaige"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/433851664"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "QQ",
+    "url": "https://res.abeim.cn/api/qq/?qq=1553734404"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "1553734404@qq.com"
+  },
+  {
+    "name": "Steam",
+    "icon": "/images/icon/steam.png",
+    "tip": "Gaming! ~",
+    "url": "https://steamcommunity.com/profiles/76561199114217481/"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/"
+  }
+]
